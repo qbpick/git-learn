@@ -7,10 +7,5 @@ JJJ EEE WWW UUU
 ONE BY ME 
 NOT BY BYE
 
-<<<<<<< HEAD
-qweqweqweqwe
-qweqweqweqwe
-=======
-qweqweqwe
-
->>>>>>> feature
+GGGGGGGGGG
+WEWEEWWAEEW
